@@ -1,0 +1,2 @@
+# java-microservices-sample
+This repository contains a sample Java microservices application to demonstrate the architecture and deployment of a microservices-based system using Spring Boot. The project is designed to showcase best practices in microservices development, including service disco
